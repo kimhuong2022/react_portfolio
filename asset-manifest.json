@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react_portfolio/static/css/main.5d4284aa.css",
-    "main.js": "/react_portfolio/static/js/main.f30738f5.js",
+    "main.js": "/react_portfolio/static/js/main.2bafd4c7.js",
     "static/js/787.70ce711e.chunk.js": "/react_portfolio/static/js/787.70ce711e.chunk.js",
     "static/media/Engineer-Software-IT_Kim-huong_Resume.pdf": "/react_portfolio/static/media/Engineer-Software-IT_Kim-huong_Resume.53c5fec83682431f1f6d.pdf",
     "static/media/KimHuongFormal.png": "/react_portfolio/static/media/KimHuongFormal.66024503acb1c106f567.png",
     "static/media/linkedin_alt_48.png": "/react_portfolio/static/media/linkedin_alt_48.7d2d34b8d766039bb629.png",
     "index.html": "/react_portfolio/index.html",
     "main.5d4284aa.css.map": "/react_portfolio/static/css/main.5d4284aa.css.map",
-    "main.f30738f5.js.map": "/react_portfolio/static/js/main.f30738f5.js.map",
+    "main.2bafd4c7.js.map": "/react_portfolio/static/js/main.2bafd4c7.js.map",
     "787.70ce711e.chunk.js.map": "/react_portfolio/static/js/787.70ce711e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d4284aa.css",
-    "static/js/main.f30738f5.js"
+    "static/js/main.2bafd4c7.js"
   ]
 }
